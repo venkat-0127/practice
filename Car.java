@@ -31,7 +31,7 @@ public class Car {
         car1.stopEngine();
         car1.displayDetails();
         //Second car object
-        Car car2 = new Car("BMW", "Blue", 2024);
+        Car car2 = new Car("toyata", "Blue", 2024);
         car2.startEngine();
         car2.stopEngine();
         car2.displayDetails();
